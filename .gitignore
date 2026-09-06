@@ -1,0 +1,5 @@
+# Сырые транскрипты и субтитры — рабочие материалы, в репозиторий не идут
+transcripts/**/transcript_*.txt
+transcripts/**/subs.*
+transcripts/**/audio.*
+__pycache__/
